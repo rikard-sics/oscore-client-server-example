@@ -1,6 +1,8 @@
 # oscore-client-server-example
 
-Repository for a basic implementation of an OSCORE capable client/server based on Californium.
+OSCORE server and client example code in Java.  
+
+This repository contains a basic implementation of an OSCORE capable client/server based on Californium.
 
 ## Overview
 Object Security for Constrained RESTful Environments (OSCORE) is an application layer protocol for protecting Constrained Application Protocol (CoAP) messages. OSCORE offers end-to-end protection for endpoints that communicate using CoAP, and HTTP (which can be mapped to CoAP). It is specifically designed to work with constrained nodes and networks. Its specification can be found in [RFC8613](https://datatracker.ietf.org/doc/html/rfc8613).
